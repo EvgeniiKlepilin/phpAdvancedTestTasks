@@ -1,4 +1,4 @@
-# PHP Test Tasks
+# PHP Advanced Test Tasks
 A set of more difficult tasks that test advanced aspects of PHP Development knowledge. Working code, can be reused for other projects.
 
 The code can be used as snippet for other projects or as a preparation for coding interview: for interviewers and interviewees.
