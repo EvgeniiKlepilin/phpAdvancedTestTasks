@@ -7,8 +7,7 @@ Following code can also be used for purpose of studying and understanding more a
 
 ## Project Description
 
-Here is the list of all the files in this repository and their description:
-* [index.php](index.php) - Startup Page
+Here is the list of all the modules in this repository and their description:
 * [Random Array Sorting](index.php) - Input size of an array and get result in a nice Google Charts Format. Specify the order.
 * [JSON Minification Service](jsonMinify.php) - Minify JSON inputted as a text or uploaded as a file. Copy the result or download it as a file.
 * [Input Validation](inputValidation.php) - Examples of different input validation methods. Good example of REGEX usage.
